@@ -1,6 +1,6 @@
-# Apollo iOS Hello World app
+# Apollo iOS Hello World app -- GraphQL + SwiftUI
 
-This is a simple example Apollo iOS app.
+This is a simple example Apollo iOS app
 
 ## Installation
 

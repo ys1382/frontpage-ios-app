@@ -9,7 +9,7 @@ This project requires the latest version of Xcode, which you can install from th
 To clone the Git repository to your local machine, including submodules:
 
 ```sh
-git clone --recursive https://github.com/apollographql/frontpage-ios-app.git
+git clone --recursive https://github.com/ys1382/frontpage-ios-app
 ```
 
 ### Dependencies 
